@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "显示计算结果", "显示计算结果\显示计算结果.vcxproj", "{060E6069-EAA7-4D98-82E3-58DDDC890232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060E6069-EAA7-4D98-82E3-58DDDC890232}.Debug|x64.ActiveCfg = Debug|x64
+		{060E6069-EAA7-4D98-82E3-58DDDC890232}.Debug|x64.Build.0 = Debug|x64
+		{060E6069-EAA7-4D98-82E3-58DDDC890232}.Debug|x86.ActiveCfg = Debug|Win32
+		{060E6069-EAA7-4D98-82E3-58DDDC890232}.Debug|x86.Build.0 = Debug|Win32
+		{060E6069-EAA7-4D98-82E3-58DDDC890232}.Release|x64.ActiveCfg = Release|x64
+		{060E6069-EAA7-4D98-82E3-58DDDC890232}.Release|x64.Build.0 = Release|x64
+		{060E6069-EAA7-4D98-82E3-58DDDC890232}.Release|x86.ActiveCfg = Release|Win32
+		{060E6069-EAA7-4D98-82E3-58DDDC890232}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F12476-9BBD-4982-864E-F3F2827FD0C1}
+	EndGlobalSection
+EndGlobal

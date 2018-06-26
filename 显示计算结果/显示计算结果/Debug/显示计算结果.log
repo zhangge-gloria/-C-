@@ -1,0 +1,3 @@
+﻿  Main.c
+d:\专业提升\c\显示计算结果\显示计算结果\main.c(14): warning C4013: “system”未定义；假设外部返回 int
+  显示计算结果.vcxproj -> D:\专业提升\C\显示计算结果\Debug\显示计算结果.exe
