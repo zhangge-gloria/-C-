@@ -1,0 +1,4 @@
+﻿  Main.c
+d:\专业提升\明解c语言练习\数组\数组\main.c(178): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\专业提升\明解c语言练习\数组\数组\main.c(304): warning C4013: “system”未定义；假设外部返回 int
+  数组.vcxproj -> D:\专业提升\明解C语言练习\数组\x64\Debug\数组.exe
