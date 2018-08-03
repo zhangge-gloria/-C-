@@ -14,6 +14,7 @@ void main()
 	{
 		puts("ÎÞ·ûºÅµÄ¡£");
 	}
+	printf("%d\n", CHAR_BIT);
 
 	system("pause");
 }

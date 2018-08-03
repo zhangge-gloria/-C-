@@ -1,0 +1,27 @@
+﻿  Main.c
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(23): warning C4013: “system”未定义；假设外部返回 int
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(11): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(11): note: 请考虑在格式字符串中使用“%zu”
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(12): note: 请考虑在格式字符串中使用“%zu”
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(13): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(13): note: 请考虑在格式字符串中使用“%zu”
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(15): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(15): note: 请考虑在格式字符串中使用“%llu”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(15): note: 请考虑在格式字符串中使用“%Iu”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(15): note: 请考虑在格式字符串中使用“%I64u”
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(16): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(16): note: 请考虑在格式字符串中使用“%llu”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(16): note: 请考虑在格式字符串中使用“%Iu”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(16): note: 请考虑在格式字符串中使用“%I64u”
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(17): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(17): note: 请考虑在格式字符串中使用“%zu”
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(19): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(19): note: 请考虑在格式字符串中使用“%llu”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(19): note: 请考虑在格式字符串中使用“%Iu”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(19): note: 请考虑在格式字符串中使用“%I64u”
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(20): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(20): note: 请考虑在格式字符串中使用“%zu”
+d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(21): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\专业提升\明解c语言练习\基本数据类型\ex0701\main.c(21): note: 请考虑在格式字符串中使用“%zu”
+  ex0701.vcxproj -> D:\专业提升\明解C语言练习\基本数据类型\x64\Debug\ex0701.exe
